@@ -1,0 +1,3 @@
+SELECT *
+FROM 
+    data_job_posting 
